@@ -1,0 +1,13 @@
+I want this to added in 2nd commit
+//commands
+git status // to chack the status of folder
+git init //Initialized empty Git repository in C:/Users/SVANJIR/Downloads/Git/.git/
+git add --a //add all file to staging state
+git commit -m "first commit"
+git log //to check all commits
+git add <filename> //from staging to ready for commit
+git restore <sneha.xlsx> //to restore the changes
+git -rf .git //to remove the .gi
+
+
+change by sneha
